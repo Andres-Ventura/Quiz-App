@@ -58,7 +58,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(35, 153, 3);
+  background-color: rgb(36, 153, 3);
 }
 button:focus {
   outline: transparent;
